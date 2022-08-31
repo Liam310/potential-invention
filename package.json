@@ -1,0 +1,23 @@
+{
+  "name": "potential-invention",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liam310/potential-invention.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liam310/potential-invention/issues"
+  },
+  "homepage": "https://github.com/Liam310/potential-invention#readme",
+  "dependencies": {
+    "jest": "^29.0.1"
+  }
+}
